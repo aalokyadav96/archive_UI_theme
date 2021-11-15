@@ -1,0 +1,22 @@
+title: Aalok Yadav
+description: Reverse engineering science.
+
+markdown: kramdown
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
+permalink: pretty
+paginate: 6
+exclude:
+- README.md
+
+plugins: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown

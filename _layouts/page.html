@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post">
+
+  <hr>
+  
+  {%if page.tagline%}
+  <div class="tagline">
+  <span class="page-title">{{page.title}}</span> <br/>
+  <span class="post-list-item-desc"><em>{{page.tagline}}</em></span>
+  </div>
+  {% endif %}
+  
+  <hr>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
