@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Aalok Yadav</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-02-12T18:45:00+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>E = MC&lt;sup&gt;2&lt;/sup&gt;</title>
+   <link href="http://localhost:4000/light/2021/09/10/emc2-einstein/"/>
+   <updated>2021-09-10T00:00:00+05:30</updated>
+   <id>http://localhost:4000/light/2021/09/10/emc2-einstein</id>
+   <content type="html">&lt;p&gt;Einstein said c is constant but did he really understood why it is if so?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fruit Names</title>
+   <link href="http://localhost:4000/vocabulary/2021/02/24/vocab/"/>
+   <updated>2021-02-24T00:00:00+05:30</updated>
+   <id>http://localhost:4000/vocabulary/2021/02/24/vocab</id>
+   <content type="html">&lt;p&gt;Apple - 사과 - sagwa - 
+Apricot - 살구 - Salgu -
+Avocado - 아보카도 - abokado
+Banana - 바나나 - banana
+Cherry - 체리 - cheri
+Cucumber - 오이 - oi
+Coconut
+Custard Apple - Seetaphal
+date palm - 대추야자 - daechuyaja
+Dragon Fruit - 드래곤 프루트 - deuraegon peuruteu
+Fig - 무화과 - muhwagwa
+Grapes
+Guava
+Indian Prune - Plum - AalooBukhara
+Jackfruit
+Kiwi
+Kumquat
+Lemon
+Lychee
+Loquat
+Mango
+Mandarin Orange
+Mulberry
+Melon
+Nashi Pear - Nashpati
+Olive
+Orange
+Papaya
+Persimmon
+Peach
+Pomegranate
+Pineapple
+Strawberry
+Singhada
+Sapodilla
+Tomato
+Tangerine
+Tamarind
+Watermelon
+Zucchini&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Theory of Special relativity</title>
+   <link href="http://localhost:4000/news/2020/12/26/time-relativity/"/>
+   <updated>2020-12-26T00:00:00+05:30</updated>
+   <id>http://localhost:4000/news/2020/12/26/time-relativity</id>
+   <content type="html">&lt;h2 id=&quot;it-is-theory-of-special-relativity-not-theory-of-relativity&quot;&gt;It is ‘Theory of &lt;em&gt;special&lt;/em&gt; relativity’ not ‘Theory of relativity’&lt;/h2&gt;
+
+&lt;p&gt;Time is just a concept. Neither it can go reverse, nor you can travel in it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Korean &amp;#58; Introduction to alphabet</title>
+   <link href="http://localhost:4000/korean/2020/12/24/Korean-intro/"/>
+   <updated>2020-12-24T00:00:00+05:30</updated>
+   <id>http://localhost:4000/korean/2020/12/24/Korean-intro</id>
+   <content type="html">&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Do not copy. Legal action will be taken.&lt;/span&gt;
+Introduction to Korean Language alphabet with Hindi and English comparison.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;स्वरvowels-&quot;&gt;स्वर/Vowels :&lt;/h3&gt;
+
+&lt;p&gt;कोरियाई भाषा में __ स्वर होते हैं&lt;/p&gt;
+
+&lt;p&gt;Korean Language has __ vowels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;한국&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;हिंदी&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;English&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅏ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;आ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;aa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅣ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ई&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;E&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅡ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;उ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;eu&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅜ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ऊ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;oo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅐ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ए&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ae&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅔ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ऐ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ei&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅗ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ओ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅓ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;औ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;eo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅕ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;यौ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;yeo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅑ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;या&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ya&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅠ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;यु&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;yeu&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;व्यंजन-&quot;&gt;व्यंजन :&lt;/h3&gt;
+
+&lt;p&gt;कोरियाई भाषा में __ व्यंजन होते हैं&lt;/p&gt;
+
+&lt;p&gt;Korean Language has __ consonants.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt; ‘kh_’ means that the sound has more air in it.&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;한국&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;हिंदी&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;English&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅇ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;अं&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ng&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㄲ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;क/ग&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;k/g&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㄱ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ख&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;kh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅋ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ख_&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;kh_&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅊ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;छ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;chh&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅈ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;च/ज&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;j&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅉ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ज&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;jj&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㄸ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;त&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;t&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅌ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;थ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;th&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㄷ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;द&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;d&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㄴ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;न&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;n&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅃ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;प&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;p&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅍ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;फ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅂ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ब&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;b&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅁ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;म&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;m&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㄹ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;र/ल&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;r/l&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅆ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;स&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;s&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅅ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;श&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;s&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ㅎ&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ह&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;h&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+ </entry>
+ 
+
+</feed>
