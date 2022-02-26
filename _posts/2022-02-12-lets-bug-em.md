@@ -16,7 +16,6 @@ I don't wanna spend these hours with nobody else
 I'm in your mind, you're in my dreams
 I'm freaking out, I don't wanna leave
 But so selfishly, I want you and nobody else
-<section style="color:#fff">
 
 I can't deny it, I lose, I lose my head
 Fight it, I do, I do
@@ -252,4 +251,4 @@ We keep shining in my mind (Ooh-aah)
 Shine a light all through the night
 Close to me, you are all of me
 
-Close to me, you are all of me</section>
+Close to me, you are all of me
