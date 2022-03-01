@@ -4,3 +4,14 @@ title: "Projects"
 permalink: "/projects/"
 tagline: That's what I do
 ---
+
+<ul>
+   {% for project in site.data.projects %}
+     <li>
+       <a href="https://{{ project.link }}">
+         {{ project.name }}
+       </a>
+       <p> {{ project.tech_stack }} </p>
+     </li>
+   {% endfor %}
+   </ul>

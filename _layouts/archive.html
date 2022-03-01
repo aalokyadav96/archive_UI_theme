@@ -2,12 +2,9 @@
 layout: page
 ---
 
-
 {% for post in site.posts %}
 {% for cat in post.categories %}
 {% if cat == page.category %}
-
-
 <div class="post-list-item">
   {% if post.link %}
   <a href="{{ post.link }}">
@@ -27,12 +24,9 @@ layout: page
     {% endif %}
   </a>
 </div>
-
-
 {% endif %}
 {% endfor %}
 {% endfor %}
-
 
 {% if paginator.total_pages > 1 %}
     <nav class="pagination">
