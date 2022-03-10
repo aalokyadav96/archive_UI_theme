@@ -20,7 +20,7 @@ body {
     background: #fffff8;
     color: #111;
     counter-reset: sidenote-counter;
-    font: 1.4rem/2rem Georgia, serif;
+    font: 1.3rem/2rem Georgia, serif;
     height: 100%;
     margin: 0 auto;
     max-width: 1440px;
@@ -39,7 +39,7 @@ h3 { font-size: 1.7rem; }
 
 p,table,blockquote,pre,img,.mini-note,ul li,ol li {
     box-sizing: border-box;
-    max-width: 55%;
+    max-width: 75%;
 }
 li ul li, li ol li {
     max-width: 100%;
