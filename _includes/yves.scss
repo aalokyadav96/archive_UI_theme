@@ -1,1 +1,48 @@
 body{font-family:-apple-system,BlinkMacSystemFont,'avenir next',avenir,Noto Sans,helvetica,'helvetica neue',sans-serif}body{font-size:1rem;line-height:1.5;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}a,a:visited{color:inherit}a:hover,a:visited:hover{color:dodgerblue}blockquote{background:#f9f9f9;border-left:5px solid black;font-size:120%;margin:2rem 0;padding:1rem}blockquote p{margin:0}blockquote footer{font-size:80%;margin:1rem 0 0 0}dl dt{margin-bottom:0.5rem}dl dd{font-style:italic;margin-bottom:2rem}code,.highlight{background:#edf2f7;overflow:auto}code{word-break:break-all}code{padding:0.1rem 0.3rem}pre{padding:1em}.date{opacity:0.6}html{box-sizing:border-box;margin:0;padding:0}*,*:before,*:after{box-sizing:inherit}body{background-color:#edf2f7;color:#495057}header,main{margin:0 auto;max-width:50rem}main{background:white;border:2px solid #e9ecef;-webkit-box-shadow:0 0.75rem 1.5rem rgba(18,38,63,0.03);box-shadow:0 0.75rem 1.5rem rgba(18,38,63,0.03);padding:2rem 3rem}ul,ol{padding:0;list-style-position:inside}table{border-collapse:collapse;text-align:left;width:100%}table tr{border-bottom:1px solid black}table td{padding:0.5rem}img{width:100%;margin:0.5rem 0}nav ul{list-style:none !important;padding:0;text-align:right}nav ul li{display:inline-block}nav a,nav a:visited{margin:0.5rem;text-decoration:none;font-size:0.875rem;text-transform:uppercase;color:inherit}footer{margin:1rem 0;text-align:center;color:inherit}
+.pagination a {color: blueviolet;font-weight: bold;}
+.coverimg {width: 100px;float: left;padding: 4px 8px 4px 0px;}
+::-moz-selection{background:#f7d2d2;color:#333;text-shadow:none}
+::selection{background:#9affc8;color:#000;text-shadow:none}
+.sitename {
+  color: rgb(102, 70, 2)!important;
+  font-size: 3rem;
+  margin: 1rem 0 1rem;
+}
+/*------------rgb(19, 217, 35)----------------*/
+.prev {
+max-width: 50%;
+float: right;
+text-align: right;
+}
+
+.next {
+max-width: 50%;
+float: left;
+text-align: left;
+}
+
+.pagination {
+font-size: 1.25rem;
+padding: 1rem 0;
+max-width: 700px;
+}
+
+.pagination::after {
+content: "";
+clear: both;
+display: block
+}
+
+.mrg3{
+   margin-top: 3.6rem;
+}
+.arth2{
+   margin-top: 2.6rem;
+}
+.arth2 a {
+   text-decoration: underline;
+}
+.post-list-item {padding: 1rem 0;}
+.post-list-item-title{margin-bottom:.3rem;font-size:28.8px;font-weight:600}
+.post-list-item-date{font-size:13.5px}
+.post-list-item-desc{color:#343a40;margin-bottom:.25rem;font-size:1rem}
