@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<main>
 {% for post in site.posts %}
 {% for cat in post.categories %}
 {% if cat == page.category %}
@@ -50,4 +51,4 @@ layout: page
     </nav>
   {% endif %}
 
-  
+  </main>
