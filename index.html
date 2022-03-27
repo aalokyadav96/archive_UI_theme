@@ -13,8 +13,8 @@ hdr: "Blog"
 </div>
 
 <hr>
+<section class="articles">
 {% for post in paginator.posts%}
- 
 <div class="post-list-item">
       <div class="post-list-item-date">
         <time>{{ post.date | date_to_string }}</time>
@@ -34,9 +34,8 @@ hdr: "Blog"
       </div>
       {% endif %}
   </div>
-
   {% endfor %}
-
+</section>
   {% if paginator.total_pages > 1 %}
     <nav class="pagination">
       {% if paginator.previous_page %}

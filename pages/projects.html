@@ -7,11 +7,11 @@ tagline: That's what I do
 
 <ul class="timeline">
    {% for project in site.data.projects %}
-     <li>
+     <li> <div class="timelinecon">
        <a href="https://{{ project.link }}">
          {{ project.name }}
        </a>
-       <p> {{ project.tech_stack }} </p>
+       <p> {{ project.tech_stack }} </p></div>
      </li>
    {% endfor %}
    </ul>
@@ -20,6 +20,9 @@ tagline: That's what I do
      * {
     padding: 0;
     margin: 0;
+}
+.timelinecon {
+
 }
 ul.timeline {
     list-style-type: none;
@@ -39,7 +42,7 @@ ul.timeline:before {
 
 ul.timeline>li {
     margin: 20px 0;
-    padding-left: 20px
+    padding-left: 60px
 }
 
 ul.timeline>li:before {
@@ -52,7 +55,14 @@ ul.timeline>li:before {
     left: 20px;
     width: 20px;
     height: 20px;
-    z-index: 400
+    z-index: 400;
+    margin-top: 1rem;
+}
+.timelinecon p {
+  font-size: 1rem;
+}
+.timelinecon a {
+  font-size: 2rem;
 }
 /*
 ul, li {

@@ -13,7 +13,7 @@ compress_html:
     envs: []
 
 permalink: pretty
-paginate: 6
+paginate: 12
 exclude:
 - README.md
 
