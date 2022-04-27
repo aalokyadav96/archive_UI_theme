@@ -36,7 +36,7 @@
    color: #0b0404;
    font-family: "Breezesans";
    font-size: 1.3125em;
-   line-height: 1.5
+   line-height: 1.5;
  }
  * {
    padding: 0;
@@ -97,7 +97,7 @@ display: block
 }
 .post-list-item {
    padding: 1rem;
-   box-shadow: 0px 1px 0px #000;
+   filter: drop-shadow(2px 4px 6px #ddd);
 }
 .post-list-item-title {
    margin-bottom: 0.3rem;
